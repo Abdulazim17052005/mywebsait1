@@ -1,0 +1,28 @@
+h2{
+    position: absolute;
+    color: rgb(32, 18, 236);
+    border-radius: 30px 30px 30px 30px;
+    transform: scale(2.1);
+    transition: 4s;
+    margin-top: 50px;
+}
+h4{
+    position: absolute;
+    color: rgb(125, 19, 238);
+    border-radius: 30px 30px 30px 30px;
+    transition: 4s;
+    transform: scale(1.7);
+    margin-top: 10px;
+}   
+    
+    
+    
+
+.audio:hover{
+    transform: scale(1.1);
+    transition: 3s;
+    box-shadow: 15px 15px 15px 15px rgb(205, 12, 231);
+}
+
+
+
